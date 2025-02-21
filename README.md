@@ -1,0 +1,1 @@
+# mttd-init-MONIKER---chain-id-mtt_6880-1---home-HOMEDIR---overwrite
